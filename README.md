@@ -1,4 +1,4 @@
-<h3 align="center">Hello!😎 I'm Erik Appe, I'm 21 years old and I love playing Ark🦖 and making Websites.👨🏿‍💻</h3>
+<h3 align="center">Hello!😎 Eu me chamo Erik, adoro jogar video game, principalmente jogos de dinousauro🦖 e sou apaixonado por aprender e codar.👨🏿‍💻</h3>
 
 ###
 
