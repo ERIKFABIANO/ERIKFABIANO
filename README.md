@@ -5,24 +5,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Desenvolvedor+Full+Stack;Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+FIAP;Construindo+produtos+com+impacto+real" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Desenvolvedor+Full+Stack;Criando+produtos+com+impacto+real;Performance%2C+UX+e+arquitetura+moderna" alt="Typing"/>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/media/space/earth.gif" width="140" alt="3D earth"/>
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/media/space/rocket.gif" width="140" alt="3D rocket"/>
 </div>
-
-## Sobre mim
-
-Sou o Erik, desenvolvedor Full Stack e estudante de Ciência da Computação na FIAP. Gosto de criar experiências digitais que unam performance, design e impacto no negócio. Estou sempre explorando novas tecnologias, arquiteturas e práticas para entregar soluções escaláveis e elegantes.
-
-## O que faço de melhor
-
-- Arquitetura e desenvolvimento de aplicações web modernas
-- APIs robustas, integrações e microsserviços
-- Interfaces responsivas com foco em experiência do usuário
-- Boas práticas, testes e qualidade de código
 
 ## Stack principal
 
