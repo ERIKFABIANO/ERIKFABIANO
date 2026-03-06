@@ -26,25 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
 </div>
 
-## Dashboard 3D & Métricas Reais
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erikfabiano&show_icons=true&theme=transparent&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=erikfabiano&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=E6EDF3" height="165" alt="streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikfabiano&layout=compact&theme=transparent&title_color=58A6FF&text_color=E6EDF3&hide_border=true" height="165" alt="languages"/>
-</div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/erikfabiano?template=classic&base.header=0&base.activity=1&base.community=1&base.metadata=0&config.timezone=America%2FSao_Paulo" alt="metrics"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=erikfabiano&theme=dark" alt="3d-contrib"/>
-</div>
-
 ## Projetos em destaque
 
 - Portfólio profissional com animações e performance premium
@@ -54,13 +35,13 @@
 ## Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/erikfabiano" target="_blank">
+  <a href="https://www.linkedin.com/in/erik-appe/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:erikfabiano.dev@gmail.com" target="_blank">
+  <a href="mailto:erikfabiano082@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
-  <a href="https://www.instagram.com/erikfabiano" target="_blank">
+  <a href="https://www.instagram.com/erikappe3/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
