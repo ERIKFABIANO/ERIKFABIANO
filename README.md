@@ -27,15 +27,8 @@ const erikFabiano = {
   nome:      "Erik Fabiano",
   cargo:     ["Full Stack Developer", "AI Agent Builder", "Founder"],
   faculdade: "Ciência da Computação — FIAP",
-  startup:   "Desenvolvimento de Software & Criação de Agentes IA",
+  startup:   "Orbix Lab",
 
-  clientes: [
-    "Faber Castell 🖊️",
-    "MCS 📦",
-    "iStoria 📚",
-    "Dropmeta 🚀",
-    "Geração Caldeira 🔥",
-  ],
 
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
@@ -67,7 +60,7 @@ const erikFabiano = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ERIKFABIANO&show_icons=true&bg_color=020818&border_color=00b4d8&title_color=00b4d8&icon_color=0369a1&text_color=e2e8f0&hide_border=false&count_private=true&rank_icon=github" />
@@ -83,17 +76,7 @@ const erikFabiano = {
 
 ## 🏆 Clientes & Projetos
 
-<div align="center">
 
-| 🏢 Cliente | 🛠️ Entrega |
-|:---:|:---:|
-| **Faber Castell** | Plataforma digital completa |
-| **MCS** | Sistema fullstack customizado |
-| **iStoria** | Aplicação web end-to-end |
-| **Dropmeta** | Produto digital escalável |
-| **Geração Caldeira** | Solução tecnológica sob medida |
-
-</div>
 
 ---
 
@@ -101,12 +84,11 @@ const erikFabiano = {
 
 <div align="center">
 
-> **Desenvolvimento de Software & Agentes de Inteligência Artificial**
->
+> **Orbix Lab**
 > Construo produtos digitais do zero ao deploy — e crio **agentes de IA** que automatizam
 > processos, aumentam receita e entregam experiências únicas para empresas de todos os portes.
 >
-> 🧠 LLMs · 🔗 LangChain · 🤖 Multi-Agent Systems · ⚡ Automações inteligentes
+>  LLMs ·  LangChain ·  Multi-Agent Systems ·  Automações inteligentes
 
 </div>
 
