@@ -43,7 +43,7 @@ const erikFabiano = {
 
 ---
 
-## ⚡ Stack Principal
+##  Stack Principal
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
@@ -71,11 +71,6 @@ const erikFabiano = {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ERIKFABIANO&theme=dark&background=020818&border=00b4d8&ring=00b4d8&fire=0369a1&currStreakLabel=00b4d8&sideLabels=e2e8f0&dates=64748b&stroke=0d2a6e" />
 </div>
-
----
-
-## 🏆 Clientes & Projetos
-
 
 
 ---
